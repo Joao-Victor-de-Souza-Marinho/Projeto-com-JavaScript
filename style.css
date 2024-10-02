@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    }
+    .cidade{
+    display: flex;
+    justify-content: center;
+    padding: 4em;
+    margin: 8em;
+    border: solid 1px;
+        
+    }
+    .mensagem{
+        justify-content: center;
+        display: flex;
+        margin: 2em;
+    }
+    h1{
+        justify-content: center;
+        display: flex;
+    }
+    button{
+        height: 2.5em;
+        width: 34em;
+        background-color: aliceblue;
+        border: none;
+
+    }
+    form{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
